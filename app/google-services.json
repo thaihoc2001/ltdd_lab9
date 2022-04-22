@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084305273330",
+    "project_id": "authentication-mobile-fcf78",
+    "storage_bucket": "authentication-mobile-fcf78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084305273330:android:57e8c222bbf712ca773b6b",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084305273330-eg5g1bs3e5uoglihpbqv7av88h1f2jlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi5Z5I6daOIfFLXeD5bcH5mlDUEni0ff4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084305273330-eg5g1bs3e5uoglihpbqv7av88h1f2jlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
